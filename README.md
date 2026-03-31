@@ -1,16 +1,17 @@
-## Hi there 👋
+# Nguyễn Đức Tài
 
-<!--
-**taitri2004/taitri2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer | FPT University — Da Nang
 
-Here are some ideas to get you started:
+## Tech Stack
+Java · Spring Boot · C# · .NET Core · Python  
+React · Tailwind CSS · MongoDB · SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Intern @ FPT Complex — RPA Team (May–Aug 2025)
+- Led Rent Apartment project (Java Servlet, SQL Server)
+- Built forum + notification system for Tastepedia & ExamBuddy
+
+## Currently
+- 4th year @ FPT University (GPA: 8.63)
+- Open to backend roles & freelance projects
+- tainguyenduc2004@gmail.com
